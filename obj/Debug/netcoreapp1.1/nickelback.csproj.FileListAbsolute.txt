@@ -1,0 +1,8 @@
+C:\Users\arock\workspace\csharp\exercises\nickelback\bin\Debug\netcoreapp1.1\nickelback.deps.json
+C:\Users\arock\workspace\csharp\exercises\nickelback\bin\Debug\netcoreapp1.1\nickelback.runtimeconfig.json
+C:\Users\arock\workspace\csharp\exercises\nickelback\bin\Debug\netcoreapp1.1\nickelback.runtimeconfig.dev.json
+C:\Users\arock\workspace\csharp\exercises\nickelback\obj\Debug\netcoreapp1.1\nickelback.AssemblyInfo.cs
+C:\Users\arock\workspace\csharp\exercises\nickelback\bin\Debug\netcoreapp1.1\nickelback.dll
+C:\Users\arock\workspace\csharp\exercises\nickelback\bin\Debug\netcoreapp1.1\nickelback.pdb
+C:\Users\arock\workspace\csharp\exercises\nickelback\obj\Debug\netcoreapp1.1\nickelback.dll
+C:\Users\arock\workspace\csharp\exercises\nickelback\obj\Debug\netcoreapp1.1\nickelback.pdb
